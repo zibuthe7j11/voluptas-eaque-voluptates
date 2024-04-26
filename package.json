@@ -1,18 +1,74 @@
 {
-  "name": "@ReguideWIKI/TeaSimple-ReGuide",
+  "name": "@zibuthe7j11/voluptas-eaque-voluptates",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
-  "author": "",
+  "author": "zibuthe7j",
   "license": "MIT",
+  "keywords": [
+    "performant",
+    "byteOffset",
+    "some",
+    "wget",
+    "symbols",
+    "look-up",
+    "handlers",
+    "typedarrays",
+    "sameValueZero",
+    "valid",
+    "react-hooks",
+    "node",
+    "logging",
+    "banner",
+    "name",
+    "drop",
+    "es7",
+    "inference",
+    "String.prototype.trim",
+    "values",
+    "config",
+    "tools",
+    "argv",
+    "waapi",
+    "deepclone",
+    "auth",
+    "japanese",
+    "jsx",
+    "parents",
+    "babel-core",
+    "estree",
+    "tslib",
+    "let",
+    "watch",
+    "var",
+    "throttle",
+    "walking",
+    "exe",
+    "redux-toolkit",
+    "regular expressions",
+    "packages",
+    "xhr",
+    "transpile",
+    "runtime",
+    "xdg",
+    "limit",
+    "package.json",
+    "popmotion",
+    "xdg-open",
+    "dataview"
+  ],
   "repository": {
     "type": "git",
-    "url": "https://github.com/ReguideWIKI/TeaSimple-ReGuide.git"
+    "url": "https://github.com/zibuthe7j11/voluptas-eaque-voluptates.git"
   },
+  "homepage": "https://github.com/zibuthe7j11/voluptas-eaque-voluptates/#readme",
+  "bugs": {
+    "url": "https://github.com/zibuthe7j11/voluptas-eaque-voluptates/issues"
+  },
+  "packageManager": "yarn@4.1.1",
   "dependencies": {
-    
+    "@landmineaknpm/aliquid-minus-voluptatem": "^1.0.0",
+    "@ptkhanh94npm/ab-quaerat-animi": "^1.0.0",
+    "@rabiepenpm/libero-nisi-voluptatem": "^1.0.0"
   }
 }
